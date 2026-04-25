@@ -1,4 +1,3 @@
-function emote()
 
 if _G.EmotesGUIRunning then
     getgenv().Notify({
